@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in.  You must
+# make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':'.
+   
+    |---------------------------handy-ruler-----------------------------------|
+qemu: vde (virtual distributed ethernet) 
+qemu:
+qemu: The idea of VDE is very effective but straightforward simple and can be 
+qemu: applied in very many configuration to provide several services. It is a 
+qemu: sort of Swiss knife of emulated networks. It can be used as a general 
+qemu: virtual private network as well as a support technology for mobility,
+qemu: a tool for network testing, a general reconfigurable overlay network,
+qemu: a layer for implementing privacy preserving technologies and many others.
+qemu:
+qemu:
+qemu: http://vde.sourceforge.net/
